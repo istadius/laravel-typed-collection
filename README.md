@@ -1,6 +1,6 @@
 # Laravel Typed Collection
 
-## This is a quick fork only for compatibility with Laravel 12, I've no intention of mantaining this project once once the original forked project fix an issue with the chunk method signature
+## This is a quick fork only for compatibility with Laravel 12, I've no intention of mantaining this project once the original forked project fix an issue with the chunk method signature
 
 [![Build Status](https://github.com/henzeb/laravel-typed-collection/workflows/tests/badge.svg)](https://github.com/henzeb/laravel-typed-collection/actions)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/henzeb/laravel-typed-collection.svg?style=flat-square)](https://packagist.org/packages/henzeb/laravel-typed-collection)
