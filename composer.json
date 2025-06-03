@@ -1,5 +1,5 @@
 {
-  "name": "henzeb/laravel-typed-collection",
+  "name": "istadius/laravel-typed-collection",
   "description": "Laravel typed collections",
   "keywords": [
     "henzeb",
@@ -15,7 +15,7 @@
     "type",
     "safe"
   ],
-  "homepage": "https://github.com/henzeb/laravel-typed-collection",
+  "homepage": "https://github.com/istadius/laravel-typed-collection",
   "license": "AGPL-3.0-only",
   "type": "library",
   "authors": [
